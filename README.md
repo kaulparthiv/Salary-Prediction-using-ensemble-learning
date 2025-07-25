@@ -1,1 +1,4 @@
 # Salary-Prediction-using-ensemble-learning
+This project aims to build a machine learning model using logistic regression to predict employee salaries based on their job title , location , experience ,education and past years of performance.In this project I have used libraries of python like numpy ,seaborn ,pandas and matplotlib along with ml core concepts of mean squarred error to analyze the dataset and make the prediction done.
+This project aims to build a machine learning model using logistic regression to predict employee salaries based on their job title , location , experience ,education and past years of performance.In this project I have used libraries of python like numpy ,seaborn ,pandas and matplotlib along with ml core concepts of mean squarred error to analyze the dataset and make the prediction done.
+Skills: Analytical Skills · Critical Thinking · python · Machine Learning · Design · Pandas (Software)
